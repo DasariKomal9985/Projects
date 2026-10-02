@@ -1,8 +1,0 @@
-../Core/Src/komal_lcd_driver.c:82:13:LCD_EnablePulse	1
-../Core/Src/komal_lcd_driver.c:103:13:LCD_SendNibble	1
-../Core/Src/komal_lcd_driver.c:141:6:LCD_Command	1
-../Core/Src/komal_lcd_driver.c:170:6:LCD_Data	1
-../Core/Src/komal_lcd_driver.c:200:6:LCD_Init	1
-../Core/Src/komal_lcd_driver.c:219:6:LCD_Clear	1
-../Core/Src/komal_lcd_driver.c:237:6:LCD_SetCursor	2
-../Core/Src/komal_lcd_driver.c:264:6:LCD_String	2
